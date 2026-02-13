@@ -1,7 +1,7 @@
 # ogqa
 
 git add .
-git commit -m "set up uv and created skeleton dir structure"
+git commit -m "revised skeleton dir structure"
 git push -u origin main
 
 uv init

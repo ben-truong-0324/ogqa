@@ -1,0 +1,11 @@
+model:
+  deployment_name: "gpt-4o-mini"
+  api_type: "openai"
+
+prompts:
+  ontology_builder:
+    version: "v1.0"
+    system_prompt: "You are an ontology engineer. Extract entities and relationships from the text to build a knowledge graph."
+  
+experiments:
+  active_id: "exp_001_initial_test"

@@ -1,0 +1,18 @@
+[
+    {
+        "timestamp": "2026-02-28 09:38:15",
+        "telemetry": {
+            "model": "gpt-4o",
+            "status": 200,
+            "latency_ms": 1564.32,
+            "tokens_prompt": 44,
+            "tokens_completion": 31,
+            "error": null
+        },
+        "content": {
+            "name": "Zara Nyx",
+            "rank": "Captain",
+            "home_planet": "Elysium Prime"
+        }
+    }
+]

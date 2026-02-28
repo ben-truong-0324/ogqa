@@ -1,7 +1,7 @@
 # ogqa
 
 git add .
-git commit -m "updated for flowchart"
+git commit -m "updated for jupyter nb3"
 git push -u origin main
 
 uv init

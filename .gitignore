@@ -2,3 +2,4 @@ priviledged/
 data/raw/
 data/processed/
 .env
+notebooks/actual_batches/
